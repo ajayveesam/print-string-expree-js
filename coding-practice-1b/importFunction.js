@@ -1,2 +1,1 @@
-const msg = require("./exportFunction");
-console.log(msg);
+const statement = require("./exportFunction");

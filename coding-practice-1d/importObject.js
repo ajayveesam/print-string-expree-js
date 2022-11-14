@@ -1,2 +1,1 @@
-const myObject = require("./exportObject.js");
-console.log(myObject);
+const person = require("./exportObject");
